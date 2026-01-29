@@ -1,7 +1,0 @@
-{
-  "name": "GuardVision AI Poster Checker",
-  "description": "Professional OCR and AI analysis tool for security industry posters, ensuring English accuracy and terminology standards.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
