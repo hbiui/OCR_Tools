@@ -1,0 +1,7 @@
+{
+  "name": "GuardVision AI Poster Checker",
+  "description": "Professional OCR and AI analysis tool for security industry posters. Optimized for Vercel Edge Deployment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
